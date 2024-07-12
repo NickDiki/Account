@@ -1,6 +1,6 @@
 proxies:
 - name: Trojan-nickdiki-GO/WS
-  server: idvpnalrel14.myvall.biz.id
+  server: quiz.staging.vidio.com
   port: 443
   type: trojan
   password: f1da0a7a-043f-4652-94ba-27806bad3ac9

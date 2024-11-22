@@ -3,12 +3,12 @@ proxies:
   server: quiz.staging.vidio.com
   port: 443
   type: trojan
-  password: f1da0a7a-043f-4652-94ba-27806bad3ac9
+  password: 915e4e88-7edb-4144-825f-bbe083c32db2
   network: ws
-  sni: idvpnalrel14.myvall.biz.id
+  sni: singaporealrelstore14.myvall.biz.id
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan-ws
     headers:
-        Host: idvpnalrel14.myvall.biz.id
+        Host: singaporealrelstore14.myvall.biz.id

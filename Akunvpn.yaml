@@ -5,10 +5,10 @@ proxies:
   type: trojan
   password: 915e4e88-7edb-4144-825f-bbe083c32db2
   network: ws
-  sni: singaporealrelstore14.myvall.biz.id
+  sni: peli.vinz.web.id
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan-ws
     headers:
-        Host: singaporealrelstore14.myvall.biz.id
+        Host: peli.vinz.web.id

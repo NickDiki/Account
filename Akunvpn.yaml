@@ -3,12 +3,12 @@ proxies:
   server: quiz.staging.vidio.com
   port: 443
   type: trojan
-  password: 915e4e88-7edb-4144-825f-bbe083c32db2
+  password: 0c527b40-52a0-4140-ba66-2e7dee5efc89
   network: ws
-  sni: peli.vinz.web.id
+  sni: awsalrelshop14id.tryn.cloud
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan-ws
     headers:
-        Host: peli.vinz.web.id
+        Host: awsalrelshop14id.tryn.cloud

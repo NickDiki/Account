@@ -1,14 +1,14 @@
 proxies:
-- name: Trojan-nickdiki-GO/WS
+- name: Trojan-NickDiki-WS
+  type: trojan
   server: quiz.staging.vidio.com
   port: 443
-  type: trojan
-  password: 0c527b40-52a0-4140-ba66-2e7dee5efc89
-  network: ws
-  sni: awsalrelshop14id.tryn.cloud
-  skip-cert-verify: true
+  password: 6491c10c-3c46-4355-9fdb-32e1c1691eb0
   udp: true
+  sni: vip-5.indoxray.top
+  skip-cert-verify: true
+  network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /websocket-trojan
     headers:
-        Host: awsalrelshop14id.tryn.cloud
+      Host: vip-5.indoxray.top

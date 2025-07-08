@@ -1,11 +1,11 @@
 proxies:
 - name: Trojan-nickdiki51-WS
   type: trojan
-  server: quiz.staging.vidio.com
+  server: s10.indoxray.top
   port: 443
   password: eafbbca9-ec09-4115-8aa0-ff6e76390a3a
   udp: true
-  sni: s10.indoxray.top
+  sni: graph.instagram.com
   skip-cert-verify: true
   network: ws
   ws-opts:
